@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T09:01:04.065Z" agent="5.0 (Windows)" etag="hSmAIOVxursKT1b-k7ru" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T09:25:13.696Z" agent="5.0 (Windows)" etag="m0mQs0iuQQKTuzj72C7f" version="13.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2436" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -284,7 +284,7 @@
         <mxCell id="54fz8cjKadsP2ye5OsTs-108" value="set vertical and horizontal scrollbars " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1460" y="1010" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="54fz8cjKadsP2ye5OsTs-118" value="insert result at&amp;nbsp; &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;the position after the last character of the text with tk.END&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="54fz8cjKadsP2ye5OsTs-118" value="insert result at &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;the position after the last character of the text with tk.END&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1430" y="845" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="54fz8cjKadsP2ye5OsTs-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="54fz8cjKadsP2ye5OsTs-198" target="54fz8cjKadsP2ye5OsTs-208" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -384,7 +384,7 @@
         <mxCell id="54fz8cjKadsP2ye5OsTs-225" value="&lt;div&gt;if &lt;br&gt;&lt;/div&gt;&lt;div&gt;provider_id is in the data frame &lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="1780" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="54fz8cjKadsP2ye5OsTs-226" value="&lt;div&gt;set chart_T = chart.T&lt;/div&gt;&lt;div&gt;and put results from chart.T on results_window&amp;nbsp; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="54fz8cjKadsP2ye5OsTs-226" value="&lt;div&gt;reset data frame index and use default, &lt;br&gt;&lt;/div&gt;&lt;div&gt;put results from chart.T on results_window&amp;nbsp; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="1920" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="54fz8cjKadsP2ye5OsTs-227" value="Put message: &#39;Provider does not exist&quot; on self.results_window" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -565,7 +565,7 @@
         <mxCell id="54fz8cjKadsP2ye5OsTs-273" value="set vertical and horizontal scrollbars " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1470" y="2180" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="54fz8cjKadsP2ye5OsTs-275" value="insert result at&amp;nbsp; &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;the position after the last character of the text with tk.END&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="54fz8cjKadsP2ye5OsTs-275" value="insert result at &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;the position after the last character of the text with tk.END&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1435" y="2005" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="54fz8cjKadsP2ye5OsTs-276" value="&lt;h1 style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 27px&quot; color=&quot;#EA6B66&quot;&gt;Module 2 Patient-related Functions&lt;/font&gt;&lt;font color=&quot;#EA6B66&quot;&gt;&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#EA6B66&quot;&gt;include: &lt;br style=&quot;font-size: 18px&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#EA6B66&quot;&gt;PatientIDSearchTool(self)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#EA6B66&quot;&gt;retrieve_ID(self)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#EA6B66&quot;&gt;patient_csv(self,chart)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#EA6B66&quot;&gt;results_window(self,chart)&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
