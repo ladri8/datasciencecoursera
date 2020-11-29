@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T06:45:11.246Z" agent="5.0 (Windows)" etag="J62tb5PPnBsAjATLcOpi" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:50:51.337Z" agent="5.0 (Windows)" etag="e9PnPMbKmAvEhepRoffl" version="13.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="836" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -20,12 +20,15 @@
           <mxGeometry x="50" y="810" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="54fz8cjKadsP2ye5OsTs-5" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="150" width="100" height="100" as="geometry" />
+          <mxGeometry x="680" y="300" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="54fz8cjKadsP2ye5OsTs-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="20" width="100" height="100" as="geometry" />
+          <mxGeometry x="680" y="110" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="54fz8cjKadsP2ye5OsTs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-7" target="54fz8cjKadsP2ye5OsTs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-7" target="54fz8cjKadsP2ye5OsTs-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54fz8cjKadsP2ye5OsTs-7" value="create and packs button with command to retrieve_ID " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -112,6 +115,97 @@
         </mxCell>
         <mxCell id="54fz8cjKadsP2ye5OsTs-46" value="else" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="640" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-48" target="54fz8cjKadsP2ye5OsTs-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-48" value="patient_csv(self):" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-51" target="54fz8cjKadsP2ye5OsTs-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-51" value="set patient_id = value obatined from entry box" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1050" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-52" value="ValueError: and show error message to user on results_window" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="197.5" y="955" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-54" value="save results stored in chart to csv" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1075" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-55" target="54fz8cjKadsP2ye5OsTs-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-55" value="set chart = to patient_id passed to Patient_ID of data frame" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="1075" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-57" target="54fz8cjKadsP2ye5OsTs-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-57" value="&lt;div&gt;try&lt;/div&gt;&lt;div&gt;patient_id = int(patient_id)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="1060" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-60" value="Except" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1040" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-66" value="if patient_id is in data frame" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="915" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-67" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-48" target="54fz8cjKadsP2ye5OsTs-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="980" as="sourcePoint" />
+            <mxPoint x="20" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-72" value="false" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="930" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-75" target="54fz8cjKadsP2ye5OsTs-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-75" value="store path where patient row will be saved on variable path" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="790" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-6" target="54fz8cjKadsP2ye5OsTs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54fz8cjKadsP2ye5OsTs-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-78" value="if path is not none" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="770" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-82" value="true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="800" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-83" value="write path and close dialog box" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="795" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54fz8cjKadsP2ye5OsTs-85" value="show &quot;Patient ID does not exist&quot; on results windows" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="940" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
