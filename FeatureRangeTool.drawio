@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T06:40:46.722Z" agent="5.0 (Windows)" etag="hVYPb8OhT9M5J91XO9pe" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T06:43:34.639Z" agent="5.0 (Windows)" etag="3QKk-53uhYbVAH3vIaek" version="13.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1466" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,8 +150,8 @@
         <mxCell id="XCpXMh4P8plNV5RskKxT-69" value="destroy label after 4 seconds" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="980" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-0" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;Feature Range/Count Tool and child function comboclick &lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 25px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="30" width="217.5" height="160" as="geometry" />
+        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-0" value="&lt;h1 style=&quot;font-size: 25px&quot;&gt;Module 2 - Feature Range/Count Tool and child function comboclick &lt;br style=&quot;font-size: 25px&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 25px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="30" width="267.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="TS-3d3BhVeNC_QCaQuOQ-2" value="true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="695" y="380" width="40" height="20" as="geometry" />
