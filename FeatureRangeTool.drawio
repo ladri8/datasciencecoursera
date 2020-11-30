@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T06:43:34.639Z" agent="5.0 (Windows)" etag="3QKk-53uhYbVAH3vIaek" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T16:06:01.247Z" agent="5.0 (Windows)" etag="pycazrj8OBwbAu3z52Co" version="13.10.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1466" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="20" width="790" height="1130" as="geometry" />
-        </mxCell>
         <mxCell id="XCpXMh4P8plNV5RskKxT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="XCpXMh4P8plNV5RskKxT-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -107,7 +104,7 @@
         <mxCell id="XCpXMh4P8plNV5RskKxT-40" value="destroy label after 4 seconds" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="455" y="830" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XCpXMh4P8plNV5RskKxT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XCpXMh4P8plNV5RskKxT-51" edge="1" target="XCpXMh4P8plNV5RskKxT-56">
+        <mxCell id="XCpXMh4P8plNV5RskKxT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XCpXMh4P8plNV5RskKxT-51" target="XCpXMh4P8plNV5RskKxT-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="410" as="targetPoint" />
           </mxGeometry>
@@ -129,34 +126,30 @@
         <mxCell id="XCpXMh4P8plNV5RskKxT-59" value="set feature freq to be the selected feature counts&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="530" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XCpXMh4P8plNV5RskKxT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XCpXMh4P8plNV5RskKxT-63" target="XCpXMh4P8plNV5RskKxT-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XCpXMh4P8plNV5RskKxT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XCpXMh4P8plNV5RskKxT-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XCpXMh4P8plNV5RskKxT-63" value="create label, with text parameter = feature_freq" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=53;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="644.5" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="XCpXMh4P8plNV5RskKxT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XCpXMh4P8plNV5RskKxT-65" target="XCpXMh4P8plNV5RskKxT-67" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XCpXMh4P8plNV5RskKxT-65" value="put label on window grid&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="760" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XCpXMh4P8plNV5RskKxT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XCpXMh4P8plNV5RskKxT-67" target="XCpXMh4P8plNV5RskKxT-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCpXMh4P8plNV5RskKxT-67" value="put label on window grid&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="870" width="130" height="70" as="geometry" />
+          <mxGeometry x="630" y="760" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XCpXMh4P8plNV5RskKxT-69" value="destroy label after 4 seconds" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="980" width="130" height="70" as="geometry" />
+          <mxGeometry x="630" y="880" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-0" value="&lt;h1 style=&quot;font-size: 25px&quot;&gt;Module 2 - Feature Range/Count Tool and child function comboclick &lt;br style=&quot;font-size: 25px&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 25px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-0" value="&lt;h1 style=&quot;font-size: 25px&quot;&gt;Module 2 - Feature Range/Count Tool and child function comboclick &lt;br style=&quot;font-size: 25px&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 25px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=25;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="30" width="267.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-2" value="true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-2" value="true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="695" y="380" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-5" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XCpXMh4P8plNV5RskKxT-9" target="XCpXMh4P8plNV5RskKxT-23">
+        <mxCell id="TS-3d3BhVeNC_QCaQuOQ-5" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XCpXMh4P8plNV5RskKxT-9" target="XCpXMh4P8plNV5RskKxT-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="820" as="sourcePoint" />
             <mxPoint x="530" y="550" as="targetPoint" />
